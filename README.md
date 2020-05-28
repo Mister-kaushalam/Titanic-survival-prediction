@@ -1,0 +1,7 @@
+
+# Predicting survival on the Titanic
+Titanic Data Set from Kaggle.
+
+We'll be trying to predict a classification- survival or deceased.
+
+We'll use a "semi-cleaned" version of the titanic data set, if you use the data set hosted directly on Kaggle, you may need to do some additional cleaning.
